@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to my page!"
-author_profile: false
+author_profile: true
 ---
 
 I am a Ph.D. candidate in Economics at Pennsylvania State University. My research focuses on leveraging machine learning methods to answer questions and relax assumptions in causal inference especially when subjects are exposed to network interference. I am broadly interested in areas of statistics that involve working with data, including biostatistics, econometrics, machine learning, and statistics education. 
