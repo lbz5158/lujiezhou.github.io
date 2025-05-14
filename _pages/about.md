@@ -13,6 +13,6 @@ Link to my CV:
 
 Contact
 ------
-Email: \href{mailto:lbz5158@psu.edu}{lbz5158@psu.edu}
-\href{LinkedIn}{https://www.linkedin.com/in/lujie-roger-zhou-579789a1/}
+Email: mailto:lbz5158@psu.edulbz5158@psu.edu
+LinkedIn
 
