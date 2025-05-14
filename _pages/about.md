@@ -2,8 +2,6 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_from:
-  - /
 ---
 
 ## Welcome to my page!
