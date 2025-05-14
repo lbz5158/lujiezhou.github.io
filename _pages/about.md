@@ -4,11 +4,11 @@ title: "Welcome to my page!"
 author_profile: true
 ---
 
-I am a Ph.D. candidate in Economics at Pennsylvania State University. My research focuses on leveraging machine learning methods to answer questions and relax assumptions in causal inference particularly when subjects are exposed to network interference. I am broadly interested in areas of statistics that involve working with data, including biostatistics, econometrics, machine learning, and statistics education. 
+I am a Ph.D. candidate in Economics at Pennsylvania State University. My research focuses on leveraging machine learning methods to answer questions and relax assumptions in causal inference particularly when subjects are exposed to network interference. I enjoy working with data, and I am broadly interested in biostatistics, econometrics, statistical machine learning, and statistics education. 
 
 I will be on the job market for the 2025-2026 academic year.
 
-My CV: [Link]()
+My CV: [Link](https://drive.google.com/file/d/1mu_xTxgMCUJsCIpJP8ia_XYF1nhdt5CE/view?usp=drive_link)
 
 Email: [lbz5158@psu.edu](mailto:lbz5158@psu.edu)
 
