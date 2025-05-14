@@ -23,7 +23,7 @@ redirect_from:
 
 
 ## Work in Progress
-COLINA, A. R. AND L. ZHOU (2024): “The Impact of Short-Term Rental on Local Housing Markets:
+Colina, A. R. and L. Zhou (2024): “The Impact of Short-Term Rental on Local Housing Markets:
 Evidence from Mexico,” Banco de México working papers.
 
-YUAN, Y. AND L. ZHOU (2023): “Online Causal Learning and Treatment Assignment in Networks.”
+Yuan, Y. and L. Zhou (2023): “Online Causal Learning and Treatment Assignment in Networks.”
