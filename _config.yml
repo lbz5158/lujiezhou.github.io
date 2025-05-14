@@ -30,6 +30,8 @@ author:
   employer         : "Pennsylvania State University"
   uri              : # URL
   email            : "lbz5158@psu.edu" 
+  linkedin         : "lujie-roger-zhou-579789a1" # Username
+
 
   # Academic websites
   academia         : # URL
@@ -42,7 +44,6 @@ author:
   researchgate     : # URL
   scopus           : # URL
 
-  linkedin         : "lujie-roger-zhou-579789a1" # Username
   
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -81,11 +82,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Job Market Paper'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Working Papers'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Work in Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
