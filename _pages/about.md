@@ -8,7 +8,7 @@ I am a Ph.D. candidate in Economics at Pennsylvania State University. My researc
 
 I will be on the job market for the 2025-2026 academic year.
 
-### My [CV]()
+My CV: [Link]()
 
-### [Email: lbz5158@psu.edu](mailto:lbz5158@psu.edu)
+Email: [lbz5158@psu.edu](mailto:lbz5158@psu.edu)
 
