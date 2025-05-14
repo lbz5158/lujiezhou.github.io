@@ -9,7 +9,7 @@ excerpt: 'Economic models produce moment inequalities, which can be used to form
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://arxiv.org/pdf/2401.01804'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
