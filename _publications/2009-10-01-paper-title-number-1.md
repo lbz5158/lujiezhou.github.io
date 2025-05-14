@@ -5,7 +5,7 @@ collection: publications
 category: working paper
 permalink: /publication/svm
 excerpt: ''
-date: 2024
+date: 2024-01-01
 venue: 'arXiv'
 slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2401.01804'
