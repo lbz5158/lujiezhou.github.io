@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "abc"
+title                    : "Lujie Zhou"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
