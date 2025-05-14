@@ -178,7 +178,7 @@
   background: var(--global-bg-color);
 
   a {
-    float: right; /* Push links to the right */
+    display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: var(--global-masthead-link-color);
@@ -188,7 +188,6 @@
       color: var(--global-masthead-link-color-hover);
     }
   }
-}
 
   button {
     position: absolute;
