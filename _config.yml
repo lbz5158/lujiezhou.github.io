@@ -90,8 +90,8 @@ publication_category:
 
 
 navigation:
-- {file: "_pages/cv.md",title: "CV"}
-
+  - {file: "_pages/cv.md",title: "CV"}
+  - {file: "_pages/teaching.md",title: "Teaching"}
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
