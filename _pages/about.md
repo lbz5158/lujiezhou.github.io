@@ -1,10 +1,6 @@
 ---
-permalink: /
 title: "Welcome to my page!"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a Ph.D. candidate in Economics at Pennsylvania State University. My research focuses on using machine learning methods to answer questions of interest in causal inference and econometrics.
