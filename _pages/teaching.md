@@ -7,11 +7,11 @@ author_profile: false
 
 {% include base_path %}
 
-### Instructor of Record
+## Instructor of Record
 * ECON 106. Statistical Foundations for Econometrics, Penn State
 * ECON 306. Introduction to Econometrics, Penn State
 
-### Teaching Assistantship
+## Teaching Assistantship
 * ECON 306. Introduction to Econometrics, Penn State
 * ECON 479. Economics of Matching, Penn State
 * ECON 497. Special Topics: Introduction to Data Science, Penn State
