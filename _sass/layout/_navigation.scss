@@ -363,10 +363,12 @@
   font-size: $type-size-5;
   font-weight: bold;
 }
+
 .navbar {
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-end; /* Aligns the navigation links to the right */
 }
+
 .nav__sub-title {
   display: block;
   margin: 0.5rem 0;
