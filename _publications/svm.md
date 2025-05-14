@@ -8,7 +8,6 @@ excerpt: 'Abstract: Economic models produce moment inequalities, which can be us
 .'
 date: 2010-10-01
 venue: 'Journal 1'
-slidesurl: ''
 paperurl: 'https://arxiv.org/pdf/2401.01804'
 citation: ''
 ---
