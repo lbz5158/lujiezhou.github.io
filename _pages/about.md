@@ -1,10 +1,10 @@
 ---
 permalink: /
 title: "Welcome to my page!"
-author_profile: true
+author_profile: false
 ---
 
-I am a Ph.D. candidate in Economics at Pennsylvania State University. My research focuses on using machine learning methods to answer questions of interest in causal inference and econometrics.
+I am a Ph.D. candidate in Economics at Pennsylvania State University. My research focuses on leveraging machine learning methods to answer questions of interest and relax assu in causal inference. I am broadly interested in areas of statistical application, including , econometrics, and statistics education.
 
 I will be on the job market for the 2025-2026 academic year.
 
