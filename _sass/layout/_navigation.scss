@@ -173,14 +173,12 @@
    ========================================================================== */
 
 .greedy-nav {
-  display: flex; /* Use Flexbox for alignment */
-  justify-content: flex-end;
   position: relative;
   min-width: 250px;
   background: var(--global-bg-color);
 
   a {
-    display: inline-block;
+    float: right; /* Push links to the right */
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: var(--global-masthead-link-color);
@@ -190,6 +188,7 @@
       color: var(--global-masthead-link-color-hover);
     }
   }
+}
 
   button {
     position: absolute;
