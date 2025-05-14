@@ -173,7 +173,9 @@
    ========================================================================== */
 
 .greedy-nav {
-  position: right;
+  display: flex; /* Use Flexbox for alignment */
+  justify-content: flex-end;
+  position: relative;
   min-width: 250px;
   background: var(--global-bg-color);
 
