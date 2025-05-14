@@ -6,8 +6,9 @@ author_profile: true
 
 I am a Ph.D. candidate in Economics at Pennsylvania State University. My research focuses on using machine learning methods to answer questions of interest in causal inference and econometrics.
 
+I will be on the job market for the 2025-2026 academic year.
 
-### [CV]()
+### My [CV]()
 
 ### [Email: lbz5158@psu.edu](mailto:lbz5158@psu.edu)
 
