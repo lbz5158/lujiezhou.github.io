@@ -172,9 +172,13 @@
    Priority plus navigation
    ========================================================================== */
 .greedy-nav {
-  position: relative;
+  display: flex;
+  justify-content: flex-end;
   min-width: 250px;
   background: var(--global-bg-color);
+  /*
+  position: relative;
+  */
 
   a {
     float: right; /* Push links to the right */
