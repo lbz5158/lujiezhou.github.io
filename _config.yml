@@ -88,6 +88,11 @@ publication_category:
   conferences:
     title: 'Work in Progress'
 
+
+navigation:
+- {file: "_pages/cv.md",title: "CV"}
+
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
