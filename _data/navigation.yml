@@ -9,7 +9,7 @@
 
 main:
   - title: "Home"
-    url: https://lbz5158.github.io/
+    url: /homepage/
     
   - title: "Research"
     url: /research/
