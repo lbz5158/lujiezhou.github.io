@@ -9,7 +9,7 @@
 
 main:
   - title: "Home"
-    url: /homepage/
+    url: /
     
   - title: "Research"
     url: /research/
