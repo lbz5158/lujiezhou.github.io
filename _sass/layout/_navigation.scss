@@ -173,10 +173,9 @@
    ========================================================================== */
 
 .greedy-nav {
-  position: relative;
+  position: right;
   min-width: 250px;
   background: var(--global-bg-color);
-  text-align: right;
 
   a {
     display: block;
