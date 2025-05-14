@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: "Welcome to my page!"
 author_profile: true
 ---
