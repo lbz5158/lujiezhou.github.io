@@ -1,9 +1,9 @@
 ---
-permalink: /homepage/
+permalink: /
 title: ""
 author_profile: true
 redirect_from:
-  - https://lbz5158.github.io
+  - /
 ---
 
 ## Welcome to my page!
