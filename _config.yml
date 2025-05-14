@@ -25,11 +25,11 @@ author:
   avatar           : "Zhou_Roger.jpg"
   name             : "Lujie (Roger) Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Economics, Pennsylvania State University"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. Candidate in Economics"
+  location         : "Greater Philadelphia"
+  employer         : "Pennsylvania State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lbz5158@psu.edu" 
 
   # Academic websites
   academia         : # URL
