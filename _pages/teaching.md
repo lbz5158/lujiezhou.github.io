@@ -7,7 +7,7 @@ author_profile: false
 
 {% include base_path %}
 
-I am passionate about promoting statistical thinking and teaching statistical methodologies, including practical techniques when working with data. I find it from my experience instructionally helpful to show students how a method is applied to solve a real-world problem. In my teaching, I value establishing trust with my students through clearly laying out the expectations and progressively building up to them step-by-step from the fundamentals.
+I am passionate about promoting statistical thinking and teaching statistical methodologies, including practical techniques when working with data. I find it from my experience instructionally helpful to show students how a method is applied to solve a real-world problem. In my teaching, I value establishing trust with my students through clearly laying out the expectations and building up to them step-by-step from the fundamentals.
 
 
 ### Teaching Certificates
