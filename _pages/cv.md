@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Zhou's CV"
 permalink: /cv/
 author_profile: false
 redirect_from:
