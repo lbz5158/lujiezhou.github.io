@@ -23,9 +23,9 @@ repository               : "lbz5158/lbz5158.github.io"
 author:
   # Biographic information
   avatar           : "Zhou_Roger.jpg"
-  name             : #"Lujie (Roger) Zhou"
+  name             : "Lujie (Roger) Zhou"
   pronouns         : # example: "she/her"  
-  bio              : " " #"Ph.D. Candidate in Economics"
+  bio              : "Ph.D. Candidate in Economics"
   location         : "Greater Philadelphia"
   employer         : "Pennsylvania State University"
   uri              : # URL
