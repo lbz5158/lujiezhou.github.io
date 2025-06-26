@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Zhou's Teaching"
 permalink: /teaching/
 author_profile: false
 ---
