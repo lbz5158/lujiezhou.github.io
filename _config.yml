@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
-title_separator          : "-"
+title                    : "Lujie (Roger) Zhou"
+title_separator          : ""
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://lbz5158.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -23,7 +23,7 @@ repository               : "lbz5158/lbz5158.github.io"
 author:
   # Biographic information
   avatar           : "Zhou_Roger.jpg"
-  name             : "" #"Lujie (Roger) Zhou"
+  name             : " " #"Lujie (Roger) Zhou"
   pronouns         : # example: "she/her"  
   bio              : #"Ph.D. Candidate in Economics"
   location         : "Greater Philadelphia"
