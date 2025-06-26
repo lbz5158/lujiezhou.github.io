@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Zhou's Research"
+title: "Research - Zhou"
 permalink: /research/
 author_profile: false
 redirect_from:
