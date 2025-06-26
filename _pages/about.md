@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Lujie (Roger) Zhou"
-hide_title: true 
+show_title: false
 author_profile: true
 redirect_from: 
   - /about/
