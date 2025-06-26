@@ -1,12 +1,14 @@
 ---
 permalink: /
 title: "Lujie (Roger) Zhou"
+hide_title: true 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
   - /homepage/
 ---
+
 
 
 Welcome to my page!
