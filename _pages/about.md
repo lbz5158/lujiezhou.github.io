@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lujie Zhou's Website"
+title: "Lujie (Roger) Zhou"
 author_profile: true
 redirect_from: 
   - /about/
