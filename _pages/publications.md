@@ -22,12 +22,11 @@ Efficient Computation of Confidence Sets Using Classification on Equidistributed
 
 
 ### Work in Progress
-Colina, A. R. and L. Zhou (2024): “The Impact of Short-Term Rental on Local Housing Markets:
-Evidence from Mexico,” Banco de México working papers.
+The Impact of Short-Term Rental on Local Housing Markets: Evidence from Mexico, with Armando R. Colina.
 * *Abstract*: Recent years have seen some sizable increase in consumer prices in Mexico. Statistics show that housing prices have risen to become the second largest contributor to the inflation over the
 past few years next to food expenditure. Recent literature mainly focuses on the effects of financialization and gentrification. In this paper, we aim to investigate the role of one other important
 factor in the rising prices of the local housing markets, short-term rental listings. We propose to use detailed Airbnb data along with national data on credit taken to purchase real estate properties
 as well as data from some other public sources to quantitatively analyze the impact, namely the direct and the spillover effects, of new Airbnb listings on the prices of the neighboring real estate
 properties. We employ a novel network interference model to disentangle the spillover effect from the direct effect and provide semiparametric consistent estimates of the effects.
 
-Yuan, Y. and L. Zhou (2023): “Online Causal Learning and Treatment Assignment in Networks.”
+Online Causal Learning and Treatment Assignment in Networks, with Yubai Yuan
