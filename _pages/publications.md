@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 ### Job Market Paper
-Heterogeneous Treatment Effects under Complex Network Interference [draft forthcoming][[code](https://github.com/lbz5158/network_rkhs)]
+Heterogeneous Treatment Effects under Complex Network Interference [draft forthcoming] [[code](https://github.com/lbz5158/network_rkhs)]
 * *Abstract*: This paper develops a semiparametric method for estimating heterogeneous treatment effects under network interference. Extending the literature of linear-in-means models, we propose a novel framework that non-parametrically models individual-level treatment responses via functions in a reproducing kernel Hilbert space (RKHS) to capture flexible heterogeneity induced by covariates. The model accommodates both endogenous and contextual peer effects and addresses the reflection problem using an instrumental variables (IV) strategy that leverage higher order neighbors across the network graph. A fixed-point iterative algorithm estimates the parameters and the function jointly. The paper derives identification conditions, establishes asymptotic properties of the estimators, and provides convergence guarantees for the algorithm.  Monte Carlo simulation highlights the method’s performance and easy implementability even when the dimensionality of covariates becomes large relative to the sample size. We revisit the social network experiment in Cai et al. (2015) and apply our procedure to recover the non-linear relation between insurance knowledge score and the explanatory variables in the study.
 
 ### Working Paper
