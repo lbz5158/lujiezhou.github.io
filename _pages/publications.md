@@ -29,4 +29,4 @@ factor in the rising prices of the local housing markets, short-term rental list
 as well as data from some other public sources to quantitatively analyze the impact, namely the direct and the spillover effects, of new Airbnb listings on the prices of the neighboring real estate
 properties. We employ a novel network interference model to disentangle the spillover effect from the direct effect and provide semiparametric consistent estimates of the effects.
 
-Online Causal Learning and Treatment Assignment in Networks, with Yubai Yuan
+Online Causal Learning and Treatment Assignment in Networks, with Yubai Yuan.
