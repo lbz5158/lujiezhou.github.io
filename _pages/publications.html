@@ -1,35 +1,87 @@
+<!-- name=_pages/publication.html -->
 ---
 layout: archive
-title: ""
-permalink: /publications/
+title: "Research - Zhou"
+permalink: /research/
 author_profile: false
+redirect_from:
+  - /research
+  - /publications
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<style>
+.abstract-container {
+  margin-bottom: 1.5em;
+}
+.toggle-abstract {
+  display: inline-block;
+  margin-bottom: 0.5em;
+  background: #f5f5f5;
+  color: #333;
+  border: 1px solid #bdbdbd;
+  border-radius: 4px;
+  padding: 3px 10px;
+  cursor: pointer;
+  font-size: 0.95em;
+  transition: background 0.2s;
+}
+.toggle-abstract:hover {
+  background: #e0e0e0;
+}
+.abstract-content {
+  background: #fafafa;
+  padding: 0.8em 1em;
+  border-left: 3px solid #bdbdbd;
+  border-radius: 0 4px 4px 0;
+  display: none;
+  margin-top: 0.3em;
+  font-size: 0.98em;
+}
+</style>
 
+<script>
+function toggleAbstract(btn) {
+  var content = btn.nextElementSibling;
+  if (content.style.display === "none" || content.style.display === "") {
+    content.style.display = "block";
+    btn.textContent = "Hide Abstract";
+  } else {
+    content.style.display = "none";
+    btn.textContent = "Show Abstract";
+  }
+}
+</script>
 
+### Job Market Paper
+Heterogeneous Treatment Effects under Complex Network Interference [draft forthcoming] 
+[[code](https://github.com/lbz5158/network_rkhs)]
+<div class="abstract-container">
+  <button class="toggle-abstract" onclick="toggleAbstract(this)">Show Abstract</button>
+  <div class="abstract-content">
+    This paper develops a semiparametric method for estimating heterogeneous treatment effects under network interference. Extending the literature of linear-in-means models, we propose a novel approach that allows for complex, non-linear peer effects and heterogeneity across individuals using reproducing kernel Hilbert space (RKHS) methods. Our estimator accommodates general forms of network structure and interference, providing flexible, consistent estimation of both direct and indirect treatment effects. We derive asymptotic properties, propose valid inference procedures, and demonstrate the method’s performance in simulations as well as an application to real-world network data.
+  </div>
+</div>
+
+### Working Paper
+Efficient Computation of Confidence Sets Using Classification on Equidistributed Grids
+[[draft](https://arxiv.org/pdf/2401.01804)] [[code](https://github.com/lbz5158/svm_equidistribution)]
+<div class="abstract-container">
+  <button class="toggle-abstract" onclick="toggleAbstract(this)">Show Abstract</button>
+  <div class="abstract-content">
+    Economic models produce moment inequalities, which can be used to form tests of the true parameters. Confidence sets (CS) of the true parameters are derived by inverting these tests. However, the computational burden of constructing these CS can be substantial, especially in high-dimensional settings. We propose a new computational method that leverages classification algorithms on equidistributed grids to efficiently approximate the boundaries of confidence sets. Our approach achieves accurate coverage while significantly reducing computation time. Applications to structural models in economics illustrate the advantages of the method.
+  </div>
+</div>
+
+### Work in Progress
+The Impact of Short-Term Rental on Local Housing Markets: Evidence from Mexico, with Armando R. Colina.
+<div class="abstract-container">
+  <button class="toggle-abstract" onclick="toggleAbstract(this)">Show Abstract</button>
+  <div class="abstract-content">
+    Recent years have seen some sizable increase in consumer prices in Mexico. Statistics show that housing prices have risen to become the second largest contributor to the inflation over the past few years next to food expenditure. Recent literature mainly focuses on the effects of financialization and gentrification. In this paper, we aim to investigate the role of one other important factor in the rising prices of the local housing markets, short-term rental listings. We propose to use detailed Airbnb data along with national data on credit taken to purchase real estate properties as well as data from some other public sources to quantitatively analyze the impact, namely the direct and the spillover effects, of new Airbnb listings on the prices of the neighboring real estate properties. We employ a novel network interference model to disentangle the spillover effect from the direct effect and provide semiparametric consistent estimates of the effects.
+  </div>
+</div>
+
+Online Causal Learning and Treatment Assignment in Networks, with Yubai Yuan.
+<!-- (no abstract provided for this item in original) -->
