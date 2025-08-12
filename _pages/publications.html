@@ -47,14 +47,22 @@ strong {
 <script>
 function toggleAbstract(btn) {
   var content = btn.nextElementSibling;
-  if (content.style.display === "none" || content.style.display === "") {
-    content.style.display = "block";
-    btn.textContent = "Hide";
+  var isHidden = content.style.display === "none" || content.style.display === "";
+  content.style.display = isHidden ? "block" : "none";
+  if (isHidden) {
+    btn.innerHTML = "&#9650; Abstract"; // Upward triangle
   } else {
-    content.style.display = "none";
-    btn.textContent = "Abstract";
+    btn.innerHTML = "&#9654; Abstract"; // Right-pointing triangle
   }
 }
+document.addEventListener("DOMContentLoaded", function() {
+  // Set all toggle buttons to initial state with right-pointing triangle
+  document.querySelectorAll('.toggle-abstract').forEach(function(btn){
+    btn.innerHTML = "&#9654; Abstract";
+    var content = btn.nextElementSibling;
+    if(content) content.style.display = "none";
+  });
+});
 </script>
 
 
