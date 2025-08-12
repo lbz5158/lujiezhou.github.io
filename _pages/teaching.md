@@ -7,7 +7,7 @@ author_profile: false
 
 {% include base_path %}
 
-I promote statistical thinking and teach data-driven methods for challenges in the real world. My instructional style is primarily based on heuristic method of teaching that helps students bridge problems arising in practice and applicable technical solutions. In my teaching, I value establishing trust with my students through clearly laying out the expectations and building up to them step-by-step from the fundamentals.
+I promote statistical thinking and teach data-driven methods for challenges in practice. My instructional style is primarily based on heuristic method of teaching that helps students bridge problems arising in the real world and applicable technical solutions. In my teaching, I value establishing trust with my students through clearly laying out the expectations and building up to them step-by-step from the fundamentals.
 
 
 ### Teaching Certificates
