@@ -61,16 +61,13 @@ strong {
 <script>
 function toggleAbstract(btn) {
   var content = btn.nextElementSibling;
-  var triangle = btn.querySelector('.triangle');
   if (content.style.display === "none" || content.style.display === "") {
     content.style.display = "block";
     btn.classList.add('open');
-    triangle.textContent = "▼";
     btn.querySelector('.btn-label').textContent = "Hide";
   } else {
     content.style.display = "none";
     btn.classList.remove('open');
-    triangle.textContent = "▶";
     btn.querySelector('.btn-label').textContent = "Abstract";
   }
 }
@@ -87,7 +84,7 @@ function toggleAbstract(btn) {
     <span class="btn-label">Abstract</span>
   </button>
   <div class="abstract-content">
-    This paper develops a semiparametric method for estimating heterogeneous treatment effects under network interference. Extending the literature of linear-in-means models, we propose a novel approach that allows for complex, non-linear peer effects and heterogeneity across individuals using reproducing kernel Hilbert space (RKHS) methods. Our estimator accommodates general forms of network structure and interference, providing flexible, consistent estimation of both direct and indirect treatment effects. We derive asymptotic properties, propose valid inference procedures, and demonstrate the method’s performance in simulations as well as an application to real-world network data.
+    This paper develops a semiparametric method for estimating heterogeneous treatment effects under network interference. Extending the literature of linear-in-means models, we propose a novel framework that non-parametrically models individual-level treatment responses via functions in a reproducing kernel Hilbert space (RKHS) to capture flexible heterogeneity induced by covariates. The model accommodates both endogenous and contextual peer effects and addresses the reflection problem using an instrumental variables (IV) strategy that leverage higher order neighbors across the network graph. A fixed-point iterative algorithm estimates the parameters and the function jointly. The paper derives identification conditions, establishes asymptotic properties of the estimators, and provides convergence guarantees for the algorithm. Monte Carlo simulation highlights the method’s performance and easy implementability even when the dimensionality of covariates becomes large relative to the sample size. We revisit the social network experiment in Cai et al. (2015) and apply our procedure to recover the non-linear relation between insurance knowledge score and the explanatory variables in the study.
   </div>
 </div>
 
@@ -103,7 +100,7 @@ function toggleAbstract(btn) {
     <span class="btn-label">Abstract</span>
   </button>
   <div class="abstract-content">
-    Economic models produce moment inequalities, which can be used to form tests of the true parameters. Confidence sets (CS) of the true parameters are derived by inverting these tests. However, the computational burden of constructing these CS can be substantial, especially in high-dimensional settings. We propose a new computational method that leverages classification algorithms on equidistributed grids to efficiently approximate the boundaries of confidence sets. Our approach achieves accurate coverage while significantly reducing computation time. Applications to structural models in economics illustrate the advantages of the method.
+    Economic models produce moment inequalities, which can be used to form tests of the true parameters. Confidence sets (CS) of the true parameters are derived by inverting these tests. However, they often lack analytical expressions, necessitating a grid search to obtain the CS numerically by retaining the grid points that pass the test. When the statistic is not asymptotically pivotal, constructing the critical value for each grid point in the parameter space adds to the computational burden. In this paper, we convert the computational issue into a classification problem by using a support vector machine (SVM) classifier. Its decision function provides a faster and more systematic way of dividing the parameter space into two regions: inside vs. outside of the confidence set. We label those points in the CS as 1 and those outside as -1. Researchers can train the SVM classifier on a grid of manageable size and use it to determine whether points on denser grids are in the CS or not. We establish certain conditions for the grid so that there is a tuning that allows us to asymptotically reproduce the test in the CS. This means that in the limit, a point is classified as belonging to the confidence set if and only if it is labeled as 1 by the SVM.
   </div>
 </div>
 
