@@ -91,7 +91,7 @@ publication_category:
 
 navigation:
   - {file: "_pages/about.md",title: "Home"}
-  - {file: "_pages/publications.html",title: "Research"}
+  - {file: "_pages/publications.md",title: "Research"}
   - {file: "_pages/teaching.md",title: "Teaching"}
   - {file: "_pages/cv.md",title: "CV"}
 
