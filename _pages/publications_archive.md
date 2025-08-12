@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research - Zhou"
-permalink: /research/
+permalink: /
 author_profile: false
 redirect_from:
   - /research
