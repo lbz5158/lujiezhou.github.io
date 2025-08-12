@@ -3,9 +3,6 @@ layout: archive
 title: "Research - Zhou"
 permalink: /publication_old/
 author_profile: false
-redirect_from:
-  - /research
-  - /publications
 ---
 
 {% include base_path %}
